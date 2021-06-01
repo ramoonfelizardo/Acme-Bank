@@ -1,4 +1,4 @@
-package br.com.bank.atutenticacao;
+package br.com.bank.autenticacao;
 
 import java.io.IOException;
 
